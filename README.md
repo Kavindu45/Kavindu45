@@ -1,55 +1,54 @@
-# Hi there, I'm [ඔබේ නම මෙතැනට]! 👋
+# <p align="center">Hi 👋, I'm Kavindu Layan</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[ඔබේ-github-username-එක]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=kavindu45&label=Profile%20views&color=0e75b6&style=flat-square" alt="kavindu45" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🚀 **Software Developer** with a passion for building scalable web applications.
-- 📈 **Trading Educator** specializing in Smart Money Concepts (SMC) and Market Analysis.
-- 🛠️ Currently working on **Full-Stack Projects** (MERN) and **Desktop Applications** (C#).
-- 🎓 Constantly learning and exploring new technologies in **FinTech** and **Cloud Computing**.
+<h3 align="center">A passionate Software Engineer & Frontend Developer from Sri Lanka 🇱🇰</h3>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 About Me
+- 🌱 I’m currently advancing my skills as a **Software Engineer**.
+- 💬 Ask me about **HTML, CSS, React, or C#**.
+- 📫 How to reach me: **kavindulayan45@gmail.com**
+- 🤝 Let's connect on **[LinkedIn](https://www.linkedin.com/in/kavindu-layan-508131212/)**
+
+---
+
+### 🛠️ Languages and Tools
 
 <p align="left">
-  <!-- Languages -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <br>
-  <!-- Frameworks/Libraries -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ඔබේ-github-username-එක]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ඔබේ-github-username-එක]&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
-</p>
-
----
-
-### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/[ඔබේ-linkedin-id]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[ඔබේ-email]" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
+
+### 📊 My Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kavindu45&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu45&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu45&theme=tokyonight" alt="kavindu45" />
+</p>
