@@ -44,11 +44,17 @@
 ---
 
 ### 📊 My Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kavindu45&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu45&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kavindu45&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu45&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu45&theme=tokyonight" alt="kavindu45" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu45&theme=tokyonight&hide_border=true" alt="kavindu45" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kavindu45&theme=tokyonight&column=7&no-bg=true" alt="trophy" />
 </p>
